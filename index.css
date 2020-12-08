@@ -283,17 +283,3 @@
 a{
 	all: unset;
 }
-
-/* Media Queries: Tabled Portrait */
-@media screen and (max-width: 768px) {
-	#Eco-Ops_Fall_2020_Initiative{ width:100%; }
-	#Home_Text { 
-		width: 26%;
-    margin: -5px;
-    border: none;
-    font-size: xx-large;
-	 }
-	 div{
-		 width: 100%;
-	 }
-}
