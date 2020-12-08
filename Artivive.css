@@ -1,0 +1,357 @@
+.mediaViewInfo {
+	--web-view-name: Artivive_Page;
+	--web-view-id: Artivive_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Artivive_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Artivive_Page {
+	position: absolute;
+	width: 1440px;
+	height: 866px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Artivive_Page;
+	--web-view-id: Artivive_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Background_by {
+	position: absolute;
+	width: 1440px;
+	height: 866px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_bz {
+	fill: rgba(236,213,154,1);
+}
+.Background_bz {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 866px;
+	left: 0px;
+	top: 0px;
+}
+#Header__7 {
+	position: absolute;
+	width: 1440px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Header__7_b {
+	fill: rgba(111,207,155,1);
+}
+.Header__7_b {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_2 {
+	fill: rgba(33,150,83,1);
+}
+.Rectangle_2 {
+	overflow: visible;
+	position: absolute;
+	width: 89px;
+	height: 72px;
+	left: 440px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Left_Nav_be {
+	position: absolute;
+	width: 348px;
+	height: 16px;
+	left: 165px;
+	top: 28px;
+	overflow: visible;
+}
+#Nav_Items_bf {
+	position: absolute;
+	width: 348px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#AboutNav_bg {
+	position: absolute;
+	width: 42px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Label_bh {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#Podcasts_Nav_bi {
+	position: absolute;
+	width: 64px;
+	height: 16px;
+	left: 74px;
+	top: 0px;
+	overflow: visible;
+}
+#Podcasts__bj {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#TwitterBots_Nav_bk {
+	position: absolute;
+	width: 83px;
+	height: 16px;
+	left: 170px;
+	top: 0px;
+	overflow: visible;
+}
+#Twitter_Bots_bl {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#Artivive_Nav_bm {
+	position: absolute;
+	width: 53px;
+	height: 16px;
+	left: 295px;
+	top: 0px;
+	overflow: visible;
+}
+#Frame_1_bn {
+	position: absolute;
+	width: 53px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Label_bo {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#eco-opsLogo_2_ce {
+	position: absolute;
+	width: 156px;
+	height: 69px;
+	left: 0px;
+	top: -5px;
+	overflow: visible;
+}
+#Below_is_a_gallery_of_our_memb {
+	left: 96px;
+	top: 212px;
+	position: absolute;
+	overflow: visible;
+	width: 1249px;
+	height: 88px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+}
+#Artivive_Works {
+	left: 96px;
+	top: 120px;
+	position: absolute;
+	overflow: hidden;
+	width: 352px;
+	height: 50px;
+	line-height: 50px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#Piece_1 {
+	left: 186px;
+	top: 346px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 32px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+body {
+	font-family: Arial;
+	margin: 0;
+  }
+
+  * {
+	box-sizing: border-box;
+  }
+
+  img {
+	vertical-align: middle;
+  }
+
+  /* Position the image container (needed to position the left and right arrows) */
+  .container {
+	top: 72px;
+	position: relative;
+	width: 65%;
+	left: 35%;
+  }
+
+  /* Hide the images by default */
+  .mySlides {
+	display: none;
+	float: right;
+  }
+
+  /* Add a pointer when hovering over the thumbnail images */
+  .cursor {
+	cursor: pointer;
+  }
+
+  /* Next & previous buttons */
+  .prev,
+  .next {
+	cursor: pointer;
+	position: absolute;
+	top: 40%;
+	width: auto;
+	padding: 16px;
+	margin-top: -50px;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
+	-webkit-user-select: none;
+  }
+
+  /* Position the "next button" to the right */
+  .next {
+	right: 0;
+	border-radius: 3px 0 0 3px;
+  }
+
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover,
+  .next:hover {
+	background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  /* Number text (1/3 etc) */
+  .numbertext {
+	color: #f2f2f2;
+	font-size: 12px;
+	padding: 8px 12px;
+	position: absolute;
+	top: 0;
+  }
+
+  /* Container for image text */
+  .caption-container {
+	text-align: center;
+	background-color: #222;
+	padding: 2px 16px;
+	color: white;
+  }
+
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
+
+  /* Six columns side by side */
+  .column {
+	float: left;
+	width: 16.66%;
+  }
+
+  /* Add a transparency effect for thumnbail images */
+  .demo {
+	opacity: 0.6;
+  }
+
+  .active,
+  .demo:hover {
+	opacity: 1;
+  }
+.text{
+	width: 45%;
+    float: left;
+    position: relative;
+    left: -50px;
+    margin-left: -45%;
+    margin-top: 22%;
+    font-size: 26px;
+    font-family: monospace;
+}

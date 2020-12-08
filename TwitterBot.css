@@ -1,0 +1,308 @@
+.mediaViewInfo {
+	--web-view-name: Twitterbots_Page;
+	--web-view-id: Twitterbots_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Twitterbots_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Twitterbots_Page {
+	position: absolute;
+	width: 1440px;
+	height: 866px;
+	background-color: rgba(236,213,154,1);
+	overflow: hidden;
+	--web-view-name: Twitterbots_Page;
+	--web-view-id: Twitterbots_Page;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#TwitterBot_Background {
+	position: absolute;
+	width: 1440px;
+	height: 866px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	z-index: -1;
+}
+#TwitterBot_Background_ba {
+	fill: rgba(236,213,154,1);
+}
+.TwitterBot_Background_ba {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 866px;
+	left: 0px;
+	top: 0px;
+}
+#NavBar {
+	position: absolute;
+	width: 1440px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#NavBar_bc {
+	fill: rgba(111,207,155,1);
+}
+.NavBar_bc {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Current_Page {
+	fill: rgba(33,150,83,1);
+}
+.Current_Page {
+	overflow: visible;
+	position: absolute;
+	width: 111px;
+	height: 72px;
+	left: 322px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Left_Nav_be {
+	position: absolute;
+	width: 348px;
+	height: 16px;
+	left: 165px;
+	top: 28px;
+	overflow: visible;
+}
+#Nav_Items_bf {
+	position: absolute;
+	width: 348px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#AboutNav_bg {
+	position: absolute;
+	width: 42px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Label_bh {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#Podcasts_Nav_bi {
+	position: absolute;
+	width: 64px;
+	height: 16px;
+	left: 74px;
+	top: 0px;
+	overflow: visible;
+}
+#Podcasts__bj {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#TwitterBots_Nav_bk {
+	position: absolute;
+	width: 83px;
+	height: 16px;
+	left: 170px;
+	top: 0px;
+	overflow: visible;
+}
+#Twitter_Bots_bl {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#Artivive_Nav_bm {
+	position: absolute;
+	width: 53px;
+	height: 16px;
+	left: 295px;
+	top: 0px;
+	overflow: visible;
+}
+#Frame_1_bn {
+	position: absolute;
+	width: 53px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Label_bo {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#eco-opsLogo_2_bp {
+	position: absolute;
+	width: 156px;
+	height: 69px;
+	left: 0px;
+	top: -5px;
+	overflow: visible;
+}
+#Below_are_the_Twitter_handles_ {
+	left: 96px;
+	top: 212px;
+	position: absolute;
+	overflow: visible;
+	width: 1249px;
+	height: 88px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+}
+#TwitterBots {
+	left: 96px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 50px;
+	line-height: 50px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#BikeBotPoet {
+	left: 92px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 32px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Tweet1_ {
+	position: absolute;
+	width: 550px;
+	height: 338px;
+	left: 92px;
+	top: 375px;
+	overflow: visible;
+}
+#I_am_a_bicycle {
+    left: 400px;
+    top: 330px;
+    position: absolute;
+    overflow: visible;
+    width: 218px;
+    height: 32px;
+    text-align: left;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+}
+#Tweet2 {
+	position: absolute;
+	width: 552px;
+	height: 422px;
+	left: 754px;
+	top: 375px;
+	overflow: visible;
+}
+#Twitter_Bot3{
+	left: 725px;
+    top: 330px;
+    position: absolute;
+    overflow: visible;
+    width: 218px;
+    height: 32px;
+    text-align: left;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+}
+
+#Twitter_Bot4{
+	left: 1050px;
+    top: 330px;
+    position: absolute;
+    overflow: visible;
+    width: 218px;
+    height: 32px;
+    text-align: left;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+}

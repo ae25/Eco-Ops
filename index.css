@@ -1,0 +1,304 @@
+.mediaViewInfo {
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Homepage;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Homepage {
+	position: absolute;
+	width: 1440px;
+	height: 866px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Home_Page {
+	fill: rgba(255,255,255,1);
+}
+.Home_Page {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 866px;
+	left: 0px;
+	top: 0px;
+}
+#Home_Background {
+	position: absolute;
+	width: 1440px;
+	height: 866px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Home_Background_cr {
+	fill: rgba(236,213,154,1);
+}
+.Home_Background_cr {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 866px;
+	left: 0px;
+	top: 0px;
+}
+#Right_Band_2 {
+	fill: rgba(111,207,155,1);
+}
+.Right_Band_2 {
+	overflow: visible;
+	position: absolute;
+	width: 612px;
+	height: 140.808px;
+	left: 828px;
+	top: 508px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Right_Band_1 {
+	fill: rgba(152,251,152,1);
+}
+.Right_Band_1 {
+	overflow: visible;
+	position: absolute;
+	width: 420px;
+	height: 116.517px;
+	left: 988px;
+	top: 448px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Left_Band_1 {
+	fill: rgba(111,207,155,1);
+}
+.Left_Band_1 {
+	overflow: visible;
+	position: absolute;
+	width: 420px;
+	height: 116.517px;
+	left: 0px;
+	top: 635.499px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#BillBoard {
+	position: absolute;
+	width: 730px;
+	height: 172px;
+	left: 101px;
+	top: 245px;
+	overflow: visible;
+}
+#Eco-Ops_Fall_2020_Initiative {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 731px;
+	height: 172px;
+	line-height: 172px;
+	margin-top: -50px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	color: rgba(24,25,31,1);
+}
+#Navbar_cx {
+	fill: rgba(111,207,155,1);
+}
+.Navbar_cx {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_1_cy {
+	fill: rgba(33,150,83,1);
+}
+.Rectangle_1_cy {
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 72px;
+	left: 153px;
+	top: 0px;
+}
+#Left_Nav_cz {
+	position: absolute;
+	width: 348px;
+	height: 16px;
+	left: 165px;
+	top: 28px;
+	overflow: visible;
+}
+#Nav_Items_c {
+	position: absolute;
+	width: 348px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#AboutNav_c {
+	position: absolute;
+	width: 42px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Label_c {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#Podcasts_Nav_c {
+	position: absolute;
+	width: 64px;
+	height: 16px;
+	left: 74px;
+	top: 0px;
+	overflow: visible;
+}
+#Podcasts__c {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#TwitterBots_Nav_c {
+	position: absolute;
+	width: 83px;
+	height: 16px;
+	left: 170px;
+	top: 0px;
+	overflow: visible;
+}
+#Twitter_Bots_c {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#Artivive_Nav_c {
+	position: absolute;
+	width: 53px;
+	height: 16px;
+	left: 295px;
+	top: 0px;
+	overflow: visible;
+}
+#Frame_1_c {
+	position: absolute;
+	width: 53px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Label_da {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	height: 16px;
+	line-height: 16px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(24,25,31,1);
+}
+#eco-opsLogo_2_da {
+	position: absolute;
+    width: 156px;
+    height: 69px;
+    left: 0px;
+    top: -5px;
+    overflow: visible;
+}
+#Home_Text {
+	left: 101px;
+	top: 395px;
+	position: absolute;
+	overflow: visible;
+	width: 1143px;
+	height: 196px;
+	line-height: 98px;
+	margin-top: -31px;
+	text-align: left;
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(51,51,51,1);
+}
+a{
+	all: unset;
+}
+@media screen and (max-width: 1060px) {
+    #Eco-Ops_Fall_2020_Initiative { width:67%; }
+	#Home_Text { width:30%; margin-left:3%;}  
+	div{width: 100%;}
+}
+
+/* Media Queries: Tabled Portrait */
+@media screen and (max-width: 768px) {
+	#Eco-Ops_Fall_2020_Initiative{ width:100%; }
+	#Home_Text { 
+		width: 26%;
+    margin: -5px;
+    border: none;
+    font-size: xx-large;
+	 }
+	 div{
+		 width: 100%;
+	 }
+}
